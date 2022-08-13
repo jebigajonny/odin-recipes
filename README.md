@@ -1,0 +1,1 @@
+This is my first attempt to complete the html part of the Odin Project. So far I've been shown the basic steps from setting up a VM, how to use Git/GitHub up to basic html-code.
