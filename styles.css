@@ -1,0 +1,19 @@
+/* styles.css */
+
+#title {
+    text-align: center;
+    font-size: 48px;
+    font-family:'Courier New', Courier, monospace;
+    color: white;
+}
+
+.links-un {
+    background-color:rgb(255, 194, 169);
+    color: white;
+    font-size: 18px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.body {
+    background-color: lightsalmon;
+}
