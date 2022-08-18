@@ -12,6 +12,10 @@
     color: white;
     font-size: 18px;
     font-family: 'Courier New', Courier, monospace;
+    padding: 10px;
+    border: 20px;
+    margin: 200px;
+    box-sizing: content-box;
 }
 
 .body {
